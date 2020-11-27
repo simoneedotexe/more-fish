@@ -11,7 +11,7 @@ version = '3.0.3-SNAPSHOT'
 ext.pluginName = 'MoreFish'
 ext.author = 'elsiff'
 ext.website = 'https://elsiff.me'
-ext.mainPackage = 'kotlin.me.elsiff.morefish'
+ext.mainPackage = 'main.kotlin.me.elsiff.morefish'
 ext.mainClass = mainPackage + ".MoreFish"
 
 sourceCompatibility = 1.8
